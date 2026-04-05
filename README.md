@@ -384,10 +384,3 @@ This dashboard demonstrates:
 - **Tailwind CSS:** Utility-first styling at scale
 - **Responsive Design:** Mobile-first approach
 
-## 📄 License
-
-This project is open source and available for learning purposes.
-
----
-
-**Happy coding!** 🚀 Feel free to customize colors, add more features, or adapt the design to your preferences.
